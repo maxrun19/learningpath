@@ -1,4 +1,4 @@
-//this program countes words, lines, characters in the files that has been passed as arguments to run the file in the command line
+//this program countes words, lines, characters in the files that has been passed as arguments to the program in the command-line
 
 #include <stdio.h>
 #include <stdlib.h>
